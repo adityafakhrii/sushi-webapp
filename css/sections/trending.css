@@ -6,7 +6,8 @@
     overflow: hidden;
 }
 
-.trending-sushi, .trending-drinks{
+.trending-sushi,
+.trending-drinks{
     width: 100%;
     min-height: 640px;
 
@@ -100,6 +101,7 @@
 
     background-color: var(--secondary-color);
     border-radius: 100%;
+    cursor: pointer;
 
     display: flex;
     justify-content: center;
